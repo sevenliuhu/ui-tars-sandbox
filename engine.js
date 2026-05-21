@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com */
 /**
  * HOMO UI-TARS Sandbox Engine — Agent execution security sandbox
  * 闭源C++二进制交付（原型为Node.js）
