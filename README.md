@@ -751,7 +751,7 @@ HOMO 智能体致力于构建 AI 时代的全方位安全体系，从 Agent 运�
 | Channel | Contact |
 |:--------|:--------|
 | Email | **16208204@qq.com** |
-| Phone/WeChat | **13437576418** |
+| Phone/WeChat | **** |
 | GitHub | [sevenliuhu](https://github.com/sevenliuhu) |
 | Services | Web Scraping, AI Agent Workflows, Web Dev, Brand Design, Short Video, Tech Solutions |
 
